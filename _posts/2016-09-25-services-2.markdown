@@ -1,0 +1,12 @@
+---
+layout: default
+img: nico1.png
+category: Services
+title: Coaching de Vida
+description: |
+---
+
+
+Sesiones de coaching orientadas a clarificar una meta u objetivo si no sientes certeza de qué es lo que quieres lograr o a dónde quieres llegar. A partir de ese lugar o estado deseado, te facilito a través de herramientas de coaching que puedas expandir tu potencial, definir metas claras y planes de acción para alcanzarlas. El coaching de vida orientado a resultados, desarrolla liderazgo transformacional sin dejar olvidada la importancia de generar prácticas y acciones que signifiquen un resultado satisfactorio para el cliente.
+
+Las sesiones de coaching se establecen de acuerdo al objetivo y la necesidad del cliente.

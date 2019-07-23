@@ -1,0 +1,10 @@
+---
+layout: default
+img: nico3.png
+category: Services
+title: Talleres para organizaciones y académicos
+description: |
+---
+
+
+Realizo talleres para equipos académicos y ejecutivos para desarrollas competencias y habilidades específicas. Los talleres se diseñan de acuerdo al objetivo y contexto del cliente, y las temáticas de intervención son: trabajo en equipo, herramientas de coaching aplicado, liderazgo transformacional, construcción de visión estratégica y autogestión emocional y bienestar de equipos.
