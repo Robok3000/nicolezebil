@@ -1,0 +1,10 @@
+---
+layout: default
+img: nico1.png
+category: Services
+title: Coaching ejecutivo
+description: |
+---
+
+
+Sesiones de coaching estratégico en organizaciones para alcanzar objetivos en el contexto organizacional. Acompaño a profesionales y emprendedores en el desarrollo de liderazgo transformacional, desarrollo de habilidades interpersonales y coaching de carrera.

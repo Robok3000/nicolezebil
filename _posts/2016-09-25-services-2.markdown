@@ -1,6 +1,6 @@
 ---
 layout: default
-img: nico1.png
+img: nico2.png
 category: Services
 title: Coaching de Vida
 description: |

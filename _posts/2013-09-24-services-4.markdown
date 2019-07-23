@@ -1,6 +1,6 @@
 ---
 layout: default
-img: nico1.png
+img: nico3.png
 category: Services
 title: Coaching de Carrera
 description: |
@@ -10,8 +10,3 @@ description: |
 
 Es un ámbito del coaching orientado a ayudar al cliente a desarrollar habilidades y competencias en un ámbito profesional, permite trabajar a partir de un diagnóstico de personalidad y estilo de relacionamiento, y además se enfoca en facilitar claridad en relación a ámbitos de desarrollo y especialización.
 8 Sesiones + Feedback a partir de instrumento de Evaluación de 4 dimensiones de la Personalidad.  
-
-Coaching Ejeutivo
--------------------
-
-Sesiones de coaching estratégico en organizaciones para alcanzar objetivos en el contexto organizacional. Acompaño a profesionales y emprendedores en el desarrollo de liderazgo transformacional, desarrollo de habilidades interpersonales y coaching de carrera.
