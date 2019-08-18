@@ -1,6 +1,6 @@
 ---
 layout: default
-img: nico1.png
+img: nico4.png
 category: Services
 title: Coaching ejecutivo
 description: |

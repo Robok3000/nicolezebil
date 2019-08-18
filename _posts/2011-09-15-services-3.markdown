@@ -1,6 +1,6 @@
 ---
 layout: default
-img: nico3.png
+img: nico1.png
 category: Services
 title: Talleres para organizaciones y académicos
 description: |
