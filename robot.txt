@@ -14,3 +14,4 @@ Disallow: /xmlrpc.php
 Disallow: /*?s=
 Disallow: ///*/feed.xml
 Disallow: /?attachment_id*
+sitemap: http://www.leaderlifecoaching.cl/sitemap.xml
